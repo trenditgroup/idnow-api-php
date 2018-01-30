@@ -1,0 +1,9 @@
+{
+    "name": "trenditgroup/idnow-api-php",
+    "autoload": {
+        "psr-4": {"IdNow\\": "src/"}
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^6"
+    }
+}
